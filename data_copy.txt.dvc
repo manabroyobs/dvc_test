@@ -1,0 +1,4 @@
+outs:
+- md5: bb2d944d8ed05fef64d1086b3df6d418
+  size: 37
+  path: data_copy.txt

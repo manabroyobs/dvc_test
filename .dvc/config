@@ -1,6 +1,8 @@
 [core]
     remote = minio
     autostage = true
+[cache]
+    type = reflink
 ['remote "minio"']
     url = s3://dvc_test
     endpointurl = http://127.0.0.1:9000
